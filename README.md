@@ -4,5 +4,5 @@ This repository contains PyTorch implementations of ResNets, Skip Connections, H
 
 The task was part of a Deep learning assignment
 
-The writeup contains the questions and report contains the detailed architecture followed
+The writeup contains the questions and report contains the implemented architecture details 
 
