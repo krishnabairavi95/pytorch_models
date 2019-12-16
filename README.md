@@ -1,6 +1,6 @@
 # pytorch_models
 
-This repository contains PyTorch implementations of ResNets, Skip Connections, Highway Networks, LeNet and MLP from scratch.
+This repository contains PyTorch implementations of ResNets, Skip Connections, Highway Networks, SqueezeNets and LeNet and MLP from scratch.
 
 The task was part of a Deep learning assignment
 
